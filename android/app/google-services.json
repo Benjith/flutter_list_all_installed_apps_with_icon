@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135503728062",
+    "firebase_url": "https://swadeshi-56f60.firebaseio.com",
+    "project_id": "swadeshi-56f60",
+    "storage_bucket": "swadeshi-56f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135503728062:android:9395d9ea33ea90d239fdef",
+        "android_client_info": {
+          "package_name": "com.ekalavya.swadeshiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135503728062-l8o7mp3a5p97bjgrf3sc2e0l4ksi3s89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQvWcRPtn0aue6Vc4Q4LJ_6guFulI5JrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135503728062-l8o7mp3a5p97bjgrf3sc2e0l4ksi3s89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
